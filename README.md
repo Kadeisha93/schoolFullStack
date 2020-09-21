@@ -1,3 +1,6 @@
+## Back to School List Full Stack App
+![School](screenshot.png)
+
 ## Installation
 
 1. Clone repo
